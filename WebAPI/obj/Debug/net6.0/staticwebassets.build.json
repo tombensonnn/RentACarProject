@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "R7ONRkAqFNLWQRBPtELe5zN1za9SXdyQ3+RLz6j7pI0=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\images\\5d24d1b3-d0f8-4f30-85ec-550de7ae266d.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/5d24d1b3-d0f8-4f30-85ec-550de7ae266d.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\5d24d1b3-d0f8-4f30-85ec-550de7ae266d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\images\\6078d951-6199-47e2-bc6d-fd0a8bc95b69.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/6078d951-6199-47e2-bc6d-fd0a8bc95b69.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\6078d951-6199-47e2-bc6d-fd0a8bc95b69.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\images\\defaultImage\\abenaki.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/defaultImage/abenaki.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\defaultImage\\abenaki.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\images\\e6659954-156d-44de-8369-f96dbf0ea5dc.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "images/e6659954-156d-44de-8369-f96dbf0ea5dc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e6659954-156d-44de-8369-f96dbf0ea5dc.jpg"
+    }
+  ]
+}

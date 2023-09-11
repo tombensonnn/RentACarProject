@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\images\\5d24d1b3-d0f8-4f30-85ec-550de7ae266d.jpg",
+      "PackagePath": "staticwebassets\\images\\5d24d1b3-d0f8-4f30-85ec-550de7ae266d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\images\\6078d951-6199-47e2-bc6d-fd0a8bc95b69.jpg",
+      "PackagePath": "staticwebassets\\images\\6078d951-6199-47e2-bc6d-fd0a8bc95b69.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\images\\defaultImage\\abenaki.jpg",
+      "PackagePath": "staticwebassets\\images\\defaultImage\\abenaki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tunah\\source\\repos\\ReCapProject\\WebAPI\\wwwroot\\images\\e6659954-156d-44de-8369-f96dbf0ea5dc.jpg",
+      "PackagePath": "staticwebassets\\images\\e6659954-156d-44de-8369-f96dbf0ea5dc.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebAPI.props",
+      "PackagePath": "build\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebAPI.props",
+      "PackagePath": "buildTransitive\\WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
